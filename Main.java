@@ -1,5 +1,6 @@
 // 変数nameに、好きな名前を代入してください
     String name = "吉本裕太";
+    String names = "吉本裕太, 田中太郎";
 
     // 変数ageに、好きな年齢を代入してください
     int age = 26;
