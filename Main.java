@@ -4,6 +4,7 @@
 
     // 変数ageに、好きな年齢を代入してください
     int age = 26;
+    int ages = 26,;
 
     // 変数heightに、好きな身長を代入してください（例: 1.2）
     double height = 1.65;
