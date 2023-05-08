@@ -8,6 +8,7 @@
 
     // 変数heightに、好きな身長を代入してください（例: 1.2）
     double height = 1.65;
+    double heights = 1.70;
 
     // 変数weightに、好きな体重を代入してください（例: 20.0）
     double weight = 65.0;
